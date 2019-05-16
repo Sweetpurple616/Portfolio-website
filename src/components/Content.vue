@@ -170,7 +170,7 @@
                   </v-card-text>
                 </v-flex>
                 <v-flex xs2>
-                  <v-card-text> <a href="https://github.com/Sweetpurple616/ProjectFullstack">
+                  <v-card-text> <a href="https://youtu.be/gmhu8uuaFIM">
                     <v-icon large color="red">fa-youtube</v-icon> </a>
                   </v-card-text>
                 </v-flex>
@@ -376,7 +376,7 @@ Dit is een kleine game die ik heb gemaakt met Typescript. In de game bestuur jij
                 </v-flex>
                 <v-flex xs2>
                   <v-card-text> <a href="http://zoehey.nl/game/docs/">
-                    <v-icon large color="red">fa-mouse-pointer</v-icon> </a>
+                    <v-icon large color="black">fa-mouse-pointer</v-icon> </a>
                   </v-card-text>
                 </v-flex>
                 <v-flex xs1>
