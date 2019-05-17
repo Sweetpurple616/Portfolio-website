@@ -129,7 +129,7 @@
             <v-flex xs1></v-flex>
             <v-flex xs2>
               <v-card-text>
-                <a href="https://github.com/Sweetpurple616/ProjectFullstack">
+                <a href="https://github.com/Sweetpurple616/ProjectFullstack/tree/Front-end">
                   <v-icon large color="black">fa-github</v-icon>
                 </a>
               </v-card-text>
